@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/NavBar';
 import HomeSection from './components/Home';
 import AboutSection from './components/About';
-import SkillsSection from './components/Skill';
+import SkillsSection from './components/Skills';
 import ProjectsSection from './components/Project';
 import ContactSection from './components/Contact'
 
