@@ -20,7 +20,7 @@ export default function Contact() {
         <div className="button-container">
           <a
             className="contact-button"
-            href="mailto: bharat.teachief0171@gmail.com"
+            href="mailto: rshvraj36@gmail.com"
           >
             Send an email
           </a>
@@ -28,7 +28,7 @@ export default function Contact() {
         <div id="contact-phone" className="button-container">
           <a
             className="contact-button"
-            href="tel:+919663887153"
+            href="tel:+9663887153"
           >
             Give a Ring
           </a>

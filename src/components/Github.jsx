@@ -18,7 +18,7 @@ export const Github = () => {
         fontSize={16}
         blockSize={15}
         year={2023}
-        username="Bharat-Shaw"
+        username="rshvraj"
       />
       </div>
       <div data-aos="fade-up" style={{display:'flex', justifyContent:'center', alignItems:'center', marginTop:'3rem'}}>
@@ -27,22 +27,22 @@ export const Github = () => {
         
         id="github-top-langs"
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat-Shaw&theme=neon&border_radius=2.7"
-          alt="Bharat-Shaw"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshvraj&theme=neon&border_radius=2.7"
+          alt="rshvraj"
         />
       </div>
       <div  data-aos="fade-up" style={{display:'flex', justifyContent:'center', gap:'10px', marginTop:'3rem'}} id="github-stat" >
         <img
         id="github-stats-card"
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=Bharat-Shaw&theme=neon&border_radius=2.7&show_icons=true"
-          alt="Bharat-Shaw"
+          src="https://github-readme-stats.vercel.app/api?username=rshvraj&theme=neon&border_radius=2.7&show_icons=true"
+          alt="rshvraj"
         />
         <img
         id="github-streak-stats"
           align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-Shaw&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D"
-          alt="Bharat-Shaw"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=rshvraj&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D"
+          alt="rshvraj"
         />
       </div>
     </section>

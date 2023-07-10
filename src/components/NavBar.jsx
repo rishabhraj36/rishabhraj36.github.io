@@ -1,4 +1,4 @@
-import resume from "../resume/Bharat_Shaw_Resume.pdf"
+import resume from "../resume/Rishabh_Profile.pdf"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
@@ -18,13 +18,13 @@ export default function Navbar({ handleClick, boolean }) {
       <div id="logo-nav">
         <h1 className="nav-link home">
           <a className="sauce name rubber" href="#home">
-            Bharat
+            Rishabh
           </a>
         </h1>
         <div className="ham-container">
           <a rel="noreferrer" href={resume} 
           onClick={handleDownload} 
-          download={'Bharat_Shaw_Resume'} className="contact-button resume-button first-btn">
+          download={'Rishabh_Profile'} className="contact-button resume-button first-btn">
             Resume
           </a>
           <span className="ham">

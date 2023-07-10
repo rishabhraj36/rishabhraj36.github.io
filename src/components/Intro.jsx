@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../images/pictures/personal.png";
+import img1 from "../images/pictures/catcoding.jpeg";
 import Typewriter from "typewriter-effect";
 
 export default function Intro({ handleClick, boolean }) {
@@ -18,10 +18,10 @@ export default function Intro({ handleClick, boolean }) {
       </div>
       <div className="intro give-padding contain">
         <div className="txt-light-red twent">
-          Namaste<span className="wave">🙏</span>, my name is
+          Hi<span className="wave">🙏</span>, I
         </div>
         <div id="user-detail-name" className="newname">
-          Bharat Shaw.
+          Rishabh
         </div>
         <div className="bio what-i-do">
           <Typewriter

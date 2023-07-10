@@ -1,10 +1,11 @@
 import React, { useEffect } from "react";
+import resume from "../resume/Rishabh_Profile.pdf"
 import AOS from "aos";
 
 export default function About() {
 
   const handleDownload = () => {
-    window.open("", '_blank');
+    window.open("https://drive.google.com/file/d/1xDVhGS-eu_lyJG-8QhJPdok5cqwlziZG/view", '_blank');
   };
 
   useEffect(() => {
@@ -33,7 +34,7 @@ export default function About() {
         </div>
         <a 
         onClick={handleDownload} 
-        rel="noreferrer" href={resume} download={"Resume"} id="resume-button-2" className="contact-button resume-button second-btn">
+        rel="noreferrer" href={resume} download={"Rishabh_Profile"} id="resume-button-2" className="contact-button resume-button second-btn">
           Resume</a>
       </div>
     </section>
