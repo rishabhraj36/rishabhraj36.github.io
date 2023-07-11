@@ -62,7 +62,7 @@ export default function Navbar({ handleClick, boolean }) {
       <a 
       href={resume} 
       onClick={handleDownload} 
-      rel="noreferrer" download={'Bharat_Shaw_Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
+      rel="noreferrer" download={'Rishabh_Profile'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
         Resume</a>
     </nav>
   );
