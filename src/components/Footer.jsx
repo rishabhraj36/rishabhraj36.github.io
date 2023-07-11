@@ -1,7 +1,7 @@
 import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faTwitterSquare, faInstagram, faLinkedin, faGithub} from "@fortawesome/free-brands-svg-icons";
-import { faHeart } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon, } from "@fortawesome/react-fontawesome";
+import {faTwitterSquare, faInstagram, faLinkedin, faGithub,faHashnode,} from "@fortawesome/free-brands-svg-icons";
+import { faHeart,faCode } from "@fortawesome/free-solid-svg-icons";
 
 export default function Footer() {
   return (
@@ -11,13 +11,18 @@ export default function Footer() {
         <div className="socials">
           <ul id="social-icons">
             <li id="contact-github">
-              <a target="_blank" rel="noreferrer" href="https://github.com/Bharat-Shaw">
+              <a target="_blank" rel="noreferrer" href="https://github.com/rshvraj">
               <FontAwesomeIcon icon={faGithub} />
               </a>
             </li>
             <li id="contact-linkedin">
-              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/bharat-shaw-4b5b76274/">
+              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rishabh-raj-b543b7242/">
               <FontAwesomeIcon icon={faLinkedin} />
+              </a>
+            </li>
+            <li id="hashnode">
+              <a target="_blank" rel="noreferrer" href="https://bootstrapnoob.hashnode.dev/">
+              <FontAwesomeIcon icon={faHashnode} />
               </a>
             </li>
           </ul>
@@ -25,7 +30,7 @@ export default function Footer() {
         <div className="copyright">
           <a href="https://github.com/rshvraj">
             Designed and built by Rishabh{" "}
-            <FontAwesomeIcon icon={faHeart} />
+            <FontAwesomeIcon icon={faCode} />
           </a>
         </div>
           {/* <a href="mailto: bharat.teachief0171@gmail.com" id="contact-email">bharat.teachief0171@gmail.com<hr /></a> */}

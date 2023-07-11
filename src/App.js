@@ -18,8 +18,8 @@ import particlesOptions from "./particles.json";
 function App() {
   let [boolean, setBoolean] = useState(true);
   function handleClick() {
-    setBoolean(!boolean);
-  }
+    setBoolean(!boolean); 
+     }
 
   const particlesInit = useCallback(main => {
     loadFull(main);
