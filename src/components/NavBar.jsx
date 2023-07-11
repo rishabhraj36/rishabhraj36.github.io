@@ -1,4 +1,4 @@
-import resume from "../resume/Rishabh_Profile.pdf"
+import resume from "../assets/resume/Rishabh_Profile.pdf"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {

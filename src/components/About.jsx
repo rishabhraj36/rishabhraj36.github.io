@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import resume from "../resume/Rishabh_Profile.pdf"
+import resume from "../assets/resume/Rishabh_Profile.pdf"
 import AOS from "aos";
 
 export default function About() {

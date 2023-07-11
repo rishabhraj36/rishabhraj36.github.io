@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../images/pictures/catcoding.jpeg";
+import img1 from "../assets/picture/catcoding.jpeg";
 import Typewriter from "typewriter-effect";
 
 export default function Intro({ handleClick, boolean }) {

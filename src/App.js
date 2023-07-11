@@ -5,7 +5,7 @@ import About from "./components/About";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import Navbar from "./components/NavBar";
-import Projects from "./components/Project";
+// import Projects from "./components/assets/project";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import { Skills } from "./components/Skills";
@@ -40,7 +40,7 @@ function App() {
         <About />
         <Skills />
         {/* <Work /> */}
-        <Projects />
+        {/* <Projects /> */}
         <Github />
         <Contact />
       </div>
