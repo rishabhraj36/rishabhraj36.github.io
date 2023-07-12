@@ -22,6 +22,28 @@ export default function getProjects() {
         projectLinkHosted: "https://boat-lifestyle-kappa.vercel.app/",
         projectLinkGithub: "https://github.com/Adarsh2102001/Boat_lifestyle",
       },
+      {
+        img:"",
+        id: 3,
+        image:'portfolio-project.png',
+        projectTitle: "Portfolio",
+        projectInfo:
+         "This is a solo project done by me which is my portfolio",
+        techUsed: [ "ReactJs", "HTML", "CSS"],
+        projectLinkHosted: "https://rshvraj.github.io/",
+        projectLinkGithub: "https://github.com/rshvraj/rshvraj.github.io",
+      },
+      {
+        img:"",
+        id: 4,
+        image:'suprlink.png',
+        projectTitle: "Suprlink",
+        projectInfo:
+         "This is live website where I had worked on frontend and UI part",
+        techUsed: [ "Flutter", "Dart", "Django"],
+        projectLinkHosted: "https://suprlink.com/",
+        projectLinkGithub: "https://github.com/rshvraj/suprlink",
+      },
       
     ];
   }
