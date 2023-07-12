@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e4647b97.css",
-    "main.js": "/static/js/main.e8e79db4.js",
+    "main.js": "/static/js/main.49bfe83c.js",
     "static/media/Boat.png": "/static/media/Boat.1ffd3e97fd82d37279e4.png",
     "static/media/Glossier.png": "/static/media/Glossier.602304e97a797ea86d9b.png",
     "static/media/Rishabh_Profile.pdf": "/static/media/Rishabh_Profile.9a31f22579478c5159e8.pdf",
@@ -10,10 +10,10 @@
     "static/media/catcoding.jpeg": "/static/media/catcoding.b9fdfd9b93f16e6630be.jpeg",
     "index.html": "/index.html",
     "main.e4647b97.css.map": "/static/css/main.e4647b97.css.map",
-    "main.e8e79db4.js.map": "/static/js/main.e8e79db4.js.map"
+    "main.49bfe83c.js.map": "/static/js/main.49bfe83c.js.map"
   },
   "entrypoints": [
     "static/css/main.e4647b97.css",
-    "static/js/main.e8e79db4.js"
+    "static/js/main.49bfe83c.js"
   ]
 }
