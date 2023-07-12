@@ -23,10 +23,14 @@ export default function Projects() {
           {projects?.map((project, index) => (
             <div data-aos="fade-up" key={project.id} className="project-card">
               <div className="project-img">
-                <img
-                  src={require(`../images/projects/${project.image}`)}
+                {/* <img
+                  src={require('../assets/projects/${projects.image}')}
                   alt=""
-                />
+                /> */}
+                <img 
+                  src={require(`../assets/projects/${project.image}`)}
+                  alt=""
+                 />
               </div>
               <div className="project-info">
                 <a target="_blank" rel="noreferrer" href={project.projectLinkHosted}>
