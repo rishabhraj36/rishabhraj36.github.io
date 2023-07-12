@@ -1,7 +1,7 @@
 import React from "react";
 import { FontAwesomeIcon, } from "@fortawesome/react-fontawesome";
 import {faTwitterSquare, faInstagram, faLinkedin, faGithub,faHashnode,} from "@fortawesome/free-brands-svg-icons";
-import { faHeart,faCode } from "@fortawesome/free-solid-svg-icons";
+import { faHeart,faCode,faMailBulk } from "@fortawesome/free-solid-svg-icons";
 
 export default function Footer() {
   return (
@@ -33,7 +33,7 @@ export default function Footer() {
             <FontAwesomeIcon icon={faCode} />
           </a>
         </div>
-          {/* <a href="mailto: bharat.teachief0171@gmail.com" id="contact-email">bharat.teachief0171@gmail.com<hr /></a> */}
+          <a href="mailto: rshvraj36@gmail.com" id="contact-email"><FontAwesomeIcon icon={faMailBulk}/> rshvraj36@gmail.com<hr /></a>
       </div>
     </footer>
   );

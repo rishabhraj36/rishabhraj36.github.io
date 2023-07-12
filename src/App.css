@@ -751,6 +751,8 @@ ul.tech-used li{
 #contact-email{
   display: none;
   position: fixed;
+
+
 }
 @media screen and (min-width:550px){
  #social-icons{
