@@ -42,7 +42,7 @@ export default function getProjects() {
          "This is live website where I had worked on frontend and UI part",
         techUsed: [ "Flutter", "Dart", "Django"],
         projectLinkHosted: "https://suprlink.com/",
-        projectLinkGithub: "https://github.com/rshvraj/suprlink",
+        projectLinkGithub: "https://github.com/rshvraj/suprlink_",
       },
       
     ];
