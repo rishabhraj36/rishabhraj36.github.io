@@ -41,7 +41,7 @@ export default function getProjects() {
         projectInfo:
          "This is live website where I had worked on frontend and UI part",
         techUsed: [ "Flutter", "Dart", "Django"],
-        projectLinkHosted: "https://suprlink.com/",
+        projectLinkHosted: "https://my-app-nine-topaz-34.vercel.app/",
         projectLinkGithub: "https://github.com/rshvraj/suprlink_",
       },
       
