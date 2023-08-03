@@ -36,13 +36,13 @@ export default function getProjects() {
       {
         img:"",
         id: 4,
-        image:'suprlink.png',
-        projectTitle: "Suprlink",
+        image:'travelious.png',
+        projectTitle: "Travelious",
         projectInfo:
          "This is live website where I had worked on frontend and UI part",
-        techUsed: [ "Flutter", "Dart", "Django"],
+        techUsed: [  "ReactJS", "Chakra UI"],
         projectLinkHosted: "https://my-app-nine-topaz-34.vercel.app/",
-        projectLinkGithub: "https://github.com/rshvraj/suprlink_",
+        projectLinkGithub: "https://github.com/rshvraj/Travelious",
       },
       
     ];
