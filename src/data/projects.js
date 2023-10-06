@@ -2,7 +2,7 @@ export default function getProjects() {
     return [
       {
         img:"",
-        id: 1,
+        id: 3,
         image:'Glossier.png',
         projectTitle: "Glossier",
         projectInfo:
@@ -13,7 +13,7 @@ export default function getProjects() {
       },
         {
         img:"",
-        id: 2,
+        id: 5,
         image:'Boat.png',
         projectTitle: "Boat",
         projectInfo:
@@ -24,7 +24,7 @@ export default function getProjects() {
       },
       {
         img:"",
-        id: 3,
+        id: 4,
         image:'portfolio-project.png',
         projectTitle: "Portfolio",
         projectInfo:
@@ -35,7 +35,7 @@ export default function getProjects() {
       },
       {
         img:"",
-        id: 4,
+        id: 2,
         image:'travelious.png',
         projectTitle: "Travelious",
         projectInfo:
@@ -43,6 +43,18 @@ export default function getProjects() {
         techUsed: [  "ReactJS", "Chakra UI"],
         projectLinkHosted: "https://my-app-nine-topaz-34.vercel.app/",
         projectLinkGithub: "https://github.com/rshvraj/Travelious",
+      },
+
+      {
+        img:"",
+        id: 1,
+        image:'real-estate.png',
+        projectTitle: "Real-Estate",
+        projectInfo:
+         "This is live website where I had worked on frontend and UI part",
+        techUsed: [  "ReactJS", "TailwindCSS","Vite","Express","Nodejs","firebase","MongoDB"],
+        projectLinkHosted: "https://real-estate-mxkr.onrender.com/",
+        projectLinkGithub: "https://github.com/rshvraj/Real-Estate",
       },
       
     ];
