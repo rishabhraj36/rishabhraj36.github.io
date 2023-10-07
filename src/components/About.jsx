@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import resume from "../assets/resume/Rishabh_Profile.pdf"
+import resume from "../assets/resume/Rishabh-Raj-Resume.pdf"
 import AOS from "aos";
 
 export default function About() {
@@ -35,7 +35,7 @@ export default function About() {
         </div>
         <a 
         onClick={handleDownload} 
-        rel="noreferrer" href={resume} download={"Rishabh_Profile"} id="resume-button-2" className="contact-button resume-button second-btn">
+        rel="noreferrer" href={resume} download={"Rishabh-Raj-Resume"} id="resume-button-2" className="contact-button resume-button second-btn">
           Resume</a>
       </div>
     </section>
