@@ -1,5 +1,18 @@
 export default function getProjects() {
     return [
+      
+      {
+        img:"",
+        id: 1,
+        image:'real-estate.png',
+        projectTitle: "Real-Estate",
+        projectInfo:
+         "This is a real estate website where we can list properties and contact seller if we are intrested in any property",
+        techUsed: [  "ReactJS", "Tailwind","Vite","Express","Nodejs","firebase","MongoDB"],
+        projectLinkHosted: "https://real-estate-mxkr.onrender.com/",
+        projectLinkGithub: "https://github.com/rshvraj/Real-Estate",
+      },
+
       {
         img:"",
         id: 3,
@@ -45,17 +58,6 @@ export default function getProjects() {
         projectLinkGithub: "https://github.com/rshvraj/Travelious",
       },
 
-      {
-        img:"",
-        id: 1,
-        image:'real-estate.png',
-        projectTitle: "Real-Estate",
-        projectInfo:
-         "This is live website where I had worked on frontend and UI part",
-        techUsed: [  "ReactJS", "TailwindCSS","Vite","Express","Nodejs","firebase","MongoDB"],
-        projectLinkHosted: "https://real-estate-mxkr.onrender.com/",
-        projectLinkGithub: "https://github.com/rshvraj/Real-Estate",
-      },
       
     ];
   }

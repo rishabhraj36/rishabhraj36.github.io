@@ -1,6 +1,6 @@
 import React,{useEffect} from "react";
 import {DiMongodb, DiHtml5,DiDart,DiFirebase} from 'react-icons/di'
-import {SiExpress,SiCss3, SiRedux, SiTailwindcss,SiJavascript,SiReact,SiPostman,SiVite} from 'react-icons/si'
+import {SiExpress,SiCss3, SiRedux, SiTailwindcss,SiJavascript,SiReact,SiPostman,SiVite,SiFigma,SiInsomnia} from 'react-icons/si'
 import {FaNodeJs, FaGitSquare, FaJava,} from 'react-icons/fa'
 import {TbBrandVscode} from 'react-icons/tb'
 import AOS from "aos";
@@ -72,6 +72,13 @@ export const Skills = () => {
             <li className="skills-card">
               <div className="skills-card-name" ><SiVite className="skills-card-img" fontSize={'25px'} color="rgb(21, 246, 73)"/> Vite</div>
             </li>
+            <li className="skills-card">
+              <div className="skills-card-name" ><SiFigma className="skills-card-img" fontSize={'25px'} color="rgb(21, 246, 73)"/> Figma</div>
+            </li>
+            <li className="skills-card">
+              <div className="skills-card-name" ><SiInsomnia className="skills-card-img" fontSize={'25px'} color="rgb(21, 246, 73)"/>Insomnia</div>
+            </li>
+
           </ul>
     </section>
   )
