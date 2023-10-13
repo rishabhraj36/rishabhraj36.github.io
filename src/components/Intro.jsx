@@ -18,7 +18,7 @@ export default function Intro({ handleClick, boolean }) {
       </div>
       <div className="intro give-padding contain">
         <div className="txt-light-red twent">
-          Hi<span className="wave">🙏</span>, I
+          Hi<span className="wave">🙏</span>, I am
         </div>
         <div id="user-detail-name" className="newname">
           Rishabh
@@ -30,10 +30,10 @@ export default function Intro({ handleClick, boolean }) {
             }}
             onInit={(typewriter) => {
               typewriter
-                .typeString("I Do Frontend.")
+                .typeString("I code Frontend")
                 .pause(2000)
                 .deleteAll()
-                .typeString("I Do Backend.")
+                .typeString("And Backend.")
                 .pause(2000)
                 .deleteAll()
                 .start();
@@ -42,8 +42,7 @@ export default function Intro({ handleClick, boolean }) {
         </div>
         <div>
           <div className="info">
-            Highly passionate and user-focused Developer👨‍💻 from INDIA adept in
-            collaborating with teams to plan the technical writing and execution of functional specifications for websites and applications.
+          I am a developer👨‍💻 who loves to design and code web interfaces that are user-friendly and interactive. I work well with teams to plan and execute functional specifications for websites and applications.
           </div>
         </div>
         <div className="button-container">
