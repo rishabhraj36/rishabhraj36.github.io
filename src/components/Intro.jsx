@@ -30,7 +30,10 @@ export default function Intro({ handleClick, boolean }) {
             }}
             onInit={(typewriter) => {
               typewriter
-                .typeString("I code Frontend")
+                .typeString("I Code")
+                .pause(2000)
+                .deleteAll()
+                .typeString("Frontend")
                 .pause(2000)
                 .deleteAll()
                 .typeString("And Backend.")
