@@ -21,7 +21,7 @@ export default function About() {
       <div>
         <div data-aos="fade-up" className=" first">
           <p id="user-detail-intro">
-          Welcome to my coding realm, where I transform your ideas into lines of code! <p style={{ display: 'inline-block' }} className="sauce">I'm Rishabh</p>
+          Welcome to my coding realm, where I transform your ideas into lines of code. <p style={{ display: 'inline-block' }} className="sauce">I'm Rishabh</p>
           , a full-stack web developer with a flair for creating stunning and user-friendly websites. I have extensive experience in working with HTML5, CSS3, JavaScript, ReactJs, NodeJs, Express, MongoDB, Tailwind, Vite, and Firebase. I enjoy applying my skills and knowledge to solve complex coding problems and deliver high-quality web solutions. I am always eager to learn new technologies and explore the latest trends in the digital world. Coding is my passion, but I also love to read books and articles that keep me updated on the latest technology trends and innovations
             <br />
           </p>
