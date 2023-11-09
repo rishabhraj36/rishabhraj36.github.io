@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ee818db.css",
+    "main.css": "/static/css/main.179ac7a6.css",
     "main.js": "/static/js/main.e45b8011.js",
     "static/media/Rishabh-Raj-Resume.pdf": "/static/media/Rishabh-Raj-Resume.9e083fb3389a87d0c93b.pdf",
     "static/media/Rishabh Headshot photo.png": "/static/media/Rishabh Headshot photo.61e14a7861dc52cb5b0f.png",
@@ -10,11 +10,11 @@
     "static/media/real-estate.png": "/static/media/real-estate.9401905297f00e53a103.png",
     "static/media/portfolio-project.png": "/static/media/portfolio-project.2ad40a6816edf2a4364e.png",
     "index.html": "/index.html",
-    "main.5ee818db.css.map": "/static/css/main.5ee818db.css.map",
+    "main.179ac7a6.css.map": "/static/css/main.179ac7a6.css.map",
     "main.e45b8011.js.map": "/static/js/main.e45b8011.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ee818db.css",
+    "static/css/main.179ac7a6.css",
     "static/js/main.e45b8011.js"
   ]
 }
