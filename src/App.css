@@ -299,8 +299,11 @@ ham i{
 }
 .inner-circle img {
   width: 410px;
-  background-size: cover;
+  position: relative;
+  top: -45px;
+  left: -20px;
 }
+
 .sq {
   position: absolute;
   width: 50%;
